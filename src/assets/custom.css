@@ -1,0 +1,20 @@
+.imageTile {
+    width: 200px;
+    height:200px;
+    border-radius: 5px;
+    background: azure;
+}
+
+body{
+background-color: #f0f5f5;
+}
+.header-background {
+    background-color: #4CAF50;
+}
+.header-text{
+    color: #FFFF;
+    margin: auto;
+}
+.form-group label{
+  color:#FFFF;
+}
