@@ -1,7 +1,7 @@
 Steps to run Application
 clone github repo
 https://github.com/bgali2018/geo-gallery.git
-Navigate to geo-gallery
+Navigate to geo-gallery - Type in "cd geo-gallery" to change directory.
 
 npm install
 npm start(for development purpose)
